@@ -4,3 +4,4 @@ Sayyid Resolution
 - Konsisten untuk merapikan kamar
 - Paham Javascript
 - Bisa membuat aplikasi android serta ios
+- Membuat website dengan menggunakan react js serta library lainnya

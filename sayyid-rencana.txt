@@ -1,7 +1,9 @@
 Rencana Sayyid Kedepannya
 - Javascript
-  *react js
+  *react
+  *vue
 - PHP Framework
   *laravel
 - CSS Framework
   *tailwind
+- Python

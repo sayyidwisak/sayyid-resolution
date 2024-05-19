@@ -1,2 +1,2 @@
-# Sayyid-Resolution
+# sayyid-resolution
 Resolusi mengenai Sayyid untuk kedepannya

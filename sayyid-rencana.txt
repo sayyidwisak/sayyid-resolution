@@ -1,3 +1,5 @@
 Rencana Sayyid Kedepannya
-- Javascript
+- Javascript\
+  *react js
 - PHP Framework
+  *laravel

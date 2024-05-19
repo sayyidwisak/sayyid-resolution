@@ -1,0 +1,5 @@
+Rencana Sayyid Kedepannya
+- Javascript
+  *react js
+- PHP Framework
+  *laravel

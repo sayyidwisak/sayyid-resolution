@@ -2,3 +2,5 @@ Sayyid Resolution
 - Konsisten belajar agar pintar
 - Konsisten bangun pagi
 - Konsisten untuk merapikan kamar
+- Paham Javascript
+- Bisa membuat aplikasi android serta ios
